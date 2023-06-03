@@ -1,3 +1,5 @@
+<img src="https://img.freepik.com/vector-premium/codificacion-programacion-desarrollo-web-codigo-computadora-banner-futurista-computadora-portatil_3482-5582.jpg" />
+
 - 👋 Hi, I’m @elitejmkmu
 - 👀 I’m interested in software dev
 - 🌱 I’m currently learning nextJS
